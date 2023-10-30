@@ -33,7 +33,7 @@ public class TwoSumTwo {
 		for (int num : answer) {
 			System.out.println(num);
 		}
-
+// im adding all this sht
 		return answer;
 	}
 }
